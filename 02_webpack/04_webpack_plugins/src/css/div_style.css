@@ -1,0 +1,7 @@
+.content{
+  font-size: 20px;
+  color:red;
+/* user-select属性使用户不能在页面上选中，但不是对所有的浏览器都是兼容的 */
+  user-select: none;
+  background-color: #666;
+}
